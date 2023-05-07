@@ -6,3 +6,5 @@
 * ## To make the dashboard more user-friendly, I have incorporated filters for gender, ethnicity, and grade. With these filters, users can easily view specific insights they are interested in.
 
 * ## Overall, this project highlights my data cleaning, analysis, and dashboard creation skills. I hope you enjoy exploring the dashboard and gaining insights from the data!
+
+![](https://github.com/SaurajeetB/Student_Performance_Project/blob/main/img.png)
